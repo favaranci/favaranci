@@ -21,3 +21,5 @@ https://linkedin.com/fvargasarancibi
 @@email
 fvargasasrancibia@gmail.com
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fvargasarancibia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/fvargasarancibia?trk=profile-badge">Felipe Vargas</a></div>
+              
